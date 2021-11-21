@@ -1,5 +1,6 @@
 Deber Comunicaciones Avanzadas 
-Nombre: Estefanía Zapata 
-Colaborador Invitado: Naythan Villafuerte 
+Nombre: Naythan Villafuerte
+Colaborador Invitado: Nancy Zapata 
 Historial de cambios: 
 
+Primer cambio por dueño del repositorio Naythan
